@@ -1,0 +1,9 @@
+adı: Ayşe
+soyadı: Kaya
+numarası: 10C
+numarası: 1546
+bölümü: MF
+ Yukarıda bilgileri verilen öğrenciye Matematik dersinden Mantık konulu ödev verilmiştir.
+Ödevin veriliş tarihi: 2023-08-10
+ Teslim tarihi: 2023-09-01
+Ödevden alınan not: 100
